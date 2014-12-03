@@ -10,6 +10,9 @@ CoreTechs.LogReader
  - Query any/all log files at once
  - Log files locked by IIS are automatically copied to temp location and deleted after querying
   
+### Installation
+
+PM> Install-Package CoreTechs.LogReader
 
 ### Example
 
